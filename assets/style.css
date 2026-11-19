@@ -37,7 +37,7 @@ p {
 .header h1 {
     padding: 60px 50px;
     color: #97A3B6;
-    background-image: url("resources/faq-title-bg@2x.png");
+    background-image: url("../resources/faq-title-bg@2x.png");
     background-repeat: no-repeat;
     background-position: top;
     width: 100%;
@@ -191,7 +191,7 @@ h2 {
     }
 
     .header {
-        background-image: url("resources/faq-title-bg.svg");
+        background-image: url("../resources/faq-title-bg.svg");
         background-repeat: no-repeat;
         background-position: top;
     }
