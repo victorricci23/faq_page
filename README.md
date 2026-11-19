@@ -6,9 +6,9 @@
 
 <div align="center">
   <h3>
-    <a href="YOUR_DEMO_URL">Demo</a>
+    <a href="https://victorricci23.github.io/faq_page/">Demo</a>
     <span> | </span>
-    <a href="YOUR_SOLUTION_URL">Solution</a>
+    <a href="https://victorricci23.github.io/faq_page/">Solution</a>
     <span> | </span>
     <a href="https://devchallenges.io/challenge/faq-page">Challenge</a>
   </h3>
